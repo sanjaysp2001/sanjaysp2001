@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
 <h3 align="center">Passionate Developer who loves to code :)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaysp2001" alt="sanjaysp2001" /></a> </p>
+<p align="left" padding="5"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaysp2001" alt="sanjaysp2001" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
